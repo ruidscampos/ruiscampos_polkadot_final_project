@@ -1,0 +1,10 @@
+[package]
+name    = "ruiscampos_polkadot_final_project"
+version = "1.0.0"
+
+rust-version = "1.68"
+edition      = "2021"
+
+publish = false
+
+[dependencies]
